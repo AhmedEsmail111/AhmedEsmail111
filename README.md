@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedesmail111&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedesmail111" /> </p>
 
-- 🌱 I’m currently learning **Design Patterns**
+- 🌱 I’m currently learning **Design Patterns** **&** **Data Structures and Algorithms** **&** **Leetcode coding Interview Questions**
 
 - 💬 Ask me about **Flutter & Dart**
 
